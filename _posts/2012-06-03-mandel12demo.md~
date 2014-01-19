@@ -1,0 +1,21 @@
+---
+layout: post
+category : Digital Humanitarianism
+title: A demographic analysis of online sentiment during Hurricane Irene
+venue: HLT/NAACL 2012
+authors: Benjamin Mandel, Aron Culotta, John Boulahanis, Danielle Stark, Bonnie Lewis and Jeremy Rodrigue
+tags : [twitter, classification]
+---
+{% include JB/setup %}
+
+We examine the response to the recent natural disaster Hurricane Irene on Twitter.com. We collect over 65,000 Twitter messages relating to Hurricane Irene from August 18th to August 31st, 2011, and group them by location and gender. We train a sentiment classifier to categorize messages based on level of concern, and then use this classifier to investigate demographic differences. We report three principal findings: (1) the number of Twitter messages related to Hurricane Irene in directly affected regions peaks around the time the hurricane hits that region; (2) the level of concern in the days leading up to the hurricane's arrival is dependent on region; and (3) the level of concern is dependent on gender, with females being more likely to express concern than males. Qualitative linguistic variations further support these differences. We conclude that social media analysis provides a viable, real-time complement to traditional survey methods for understanding public perception towards an impending disaster.
+
+## Citation
+
+	@inproceedings{mandel12demo,
+      author = {Benjamin Mandel and Aron Culotta and John Boulahanis and Danielle Stark and Bonnie Lewis and Jeremy Rodrigue},
+      title = {A demographic analysis of online sentiment during {H}urricane {I}rene},
+      booktitle = {NAACL-HLT Workshop on Language in Social Media},
+      year = {2012},
+    }
+

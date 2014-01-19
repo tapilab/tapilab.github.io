@@ -1,0 +1,17 @@
+{% include JB/setup %}
+
+## Projects
+
+- ### Public Health
+#### Publications
+
+<ul class="posts">
+  {% for post in site.posts %}
+  {% if post.category == "health" %}
+    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>, {{ post.venue }} </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+
+

@@ -1,0 +1,18 @@
+---
+layout: post
+category : health
+tagline: "Supporting tagline"
+title: Estimating County Health Statistics with Twitter
+tags : [twitter, GMMs]
+---
+{% include JB/setup %}
+
+This is a paper about infering health.
+
+## Abstract
+
+This is an abstract
+
+## Citation
+
+This is a citation

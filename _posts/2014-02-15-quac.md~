@@ -1,0 +1,25 @@
+---
+layout: post
+category : User Attribute Inference
+title: Inferring the Origin Locations of Tweets with  Quantitative Confidence
+venue: CSCW 2014
+authors: Reid Priedhorsky, Aron Culotta, Sara Y. Del Valle
+tags : [twitter, GMMs]
+---
+{% include JB/setup %}
+
+This is a paper about infering health.
+
+## Abstract
+
+This is an abstract
+
+## Citation
+
+	@InProceedings{priedhorsky14inferring,
+      author    = {Reid Priedhorsky and Aron Culotta and Sara Y. Del Valle},
+      title     = {Inferring the origin location of tweets with quantitative confidence},
+      booktitle = {17th ACM Conference on Computer Supported Cooperative Work and Social Computing},
+      year      = {2014}
+    }
+

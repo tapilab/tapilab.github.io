@@ -1,0 +1,153 @@
+# This is the default format. 
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:categories/:year/:month/:day/:title 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+pygments: true
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : TAPILab
+tagline: Text Analysis in the Public Interest Laboratory
+author :
+  name : Aron Culotta
+  email : culotta@cs.iit.edu
+  github : tapilab
+  twitter : tapilab
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.io, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+#
+production_url : http://tapilab.github.io
+
+# All Jekyll-Bootstrap specific configurations are namespaced into this hash
+#
+JB :
+  version : 0.3.0
+
+  # All links will be namespaced by BASE_PATH if defined.
+  # Links in your website should always be prefixed with {{BASE_PATH}}
+  # however this value will be dynamically changed depending on your deployment situation.
+  #
+  # CNAME (http://yourcustomdomain.com)
+  #   DO NOT SET BASE_PATH 
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Pages (http://username.github.io)
+  #   DO NOT SET BASE_PATH 
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Project Pages (http://username.github.io/project-name)
+  #
+  #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
+  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #
+  # CAUTION:
+  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
+  #   - Only the following values are falsy: ["", null, false]
+  #   - When setting BASE_PATH it must be a valid url.
+  #     This means always setting the protocol (http|https) or prefixing with "/"
+  BASE_PATH : false
+
+  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
+  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
+  #
+  # Override this by defining an absolute path to assets here.
+  # ex: 
+  #   http://s3.amazonaws.com/yoursite/themes/watermelon
+  #   /assets
+  #
+  ASSET_PATH : false
+
+  # These paths are to the main pages Jekyll-Bootstrap ships with.
+  # Some JB helpers refer to these paths; change them here if needed.
+  #
+  archive_path: /archive.html
+  categories_path : /projects.html
+  tags_path : /tags.html
+  atom_path : /atom.xml
+  rss_path : /rss.xml
+
+  # Settings for comments helper
+  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to false to turn commenting off globally.
+  #
+  comments :
+    provider : false
+  #   disqus :
+  #     short_name : jekyllbootstrap
+  #   livefyre :
+  #     site_id : 123
+  #   intensedebate :
+  #     account : 123abc
+  #   facebook :
+  #    appid : 123
+  #     num_posts: 5
+  #     width: 580
+  #     colorscheme: light
+   
+  # Settings for analytics helper
+  # Set 'provider' to the analytics provider you want to use.
+  # Set 'provider' to false to turn analytics off globally.
+  #        
+  analytics :
+    provider : false
+    # google : 
+    #     tracking_id : 'UA-123-12'
+    # getclicky :
+    #   site_id : 
+    # mixpanel :
+    #     token : '_MIXPANEL_TOKEN_'
+    # piwik :
+    #     baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+    #    idsite : '1'                   # the id of the site on Piwik
+
+  # Settings for sharing helper. 
+  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
+  # Set 'provider' to the sharing provider you want to use.
+  # Set 'provider' to false to turn sharing off globally.
+  #
+  sharing :
+    provider : false
+
+  # Settings for all other include helpers can be defined by creating
+  # a hash with key named for the given helper. ex:
+  #
+  #   pages_list :
+  #     provider : "custom"
+  #
+  # Setting any helper's provider to 'custom' will bypass the helper code
+  # and include your custom code. Your custom file must be defined at:
+  #   ./_includes/custom/[HELPER]
+  # where [HELPER] is the name of the helper you are overriding.
+
+category_list:
+  - name: Public Health
+    description: The proliferation of social media -- such as Twitter, Facebook, blogs, and Web forums -- has created an unprecedented, continuous stream of messages containing the thoughts, opinions, and beliefs of millions of people. Can we transform this raw data into insights about public health? Our recent work has shown promising results mining online data to monitor disease symptoms and estimate population health, suggesting that this new data source can enhance our understanding of the relationships among health, behavior, personality, and environment.
+    image: flu.png
+
+  - name: Digital Humanitarianism
+    description: During disasters such as hurricanes, first-responders need situational awareness to make the right decisions in a quickly changing environment. People on the ground often post online messages that provide actionable information, but it can be difficult to find among all the noise. Can we monitor social media during a natural disaster or other crisis to inform first-responders? Can we discern the most vulnerable populations based on their attitudes before, during, and after the disaster?
+    image: irene.png
+
+  - name: User Attribute Inference
+    description: Using social media to inform health and disaster relief requires knowledge of user-level attributes, such as location, age, and gender, in order to produce accurate information. Can we infer such attributes from linguistic patterns of users? If so, what are the privacy implications of this technology?
+    image: geo.png
+
+  - name: Information Extraction
+    description: Most of the world's information is intended to be read by humans, not computers. Information extraction transforms unstructured documents into structured representation, thereby allowing knowledge discovery applications to provide insights from large text collections. We explore statistical approaches to named-entity recognition, coreference resolution, and relation extraction.
+    image: ie.png
+
+  - name: Active Learning
+    description: Most machine learning methods require costly human annotation efforts for training and validation. Can we more efficiently train machine learning models? We explore several interactive frameworks to improve the learning rate of machine learning algorithms, particularly for structured prediction problems.
+    image: active.png
+
+  - name: Scalable Machine Learning
+    description: Most sophisticated structured prediction algorithms were not designed to run at Web scale. We explore accurate approximations that allow us to use rich data representations while scaling up to millions of variables.
+    image: scale.png

@@ -1,0 +1,27 @@
+---
+layout: post
+category : Scalable Machine Learning
+title: "SampleRank: Training factor graphs with atomic gradients"
+venue: ICML 2011
+authors: Michael Wick, Khashayar Rohanimanesh, Kedar Bellare, Aron Culotta and Andrew McCallum
+tags : [MCMC]
+---
+{% include JB/setup %}
+
+We present SampleRank, an alternative to contrastive divergence (CD) for
+estimating parameters in complex graphical models. SampleRank harnesses a
+user-provided loss function to distribute stochastic gradients across an MCMC
+chain. As a result, parameter updates can be computed between arbitrary MCMC
+states. SampleRank is not only faster than CD, but also achieves better
+accuracy in practice (up to 23% error reduction on noun-phrase coreference).
+
+## Citation
+```
+@inproceedings{wick11sample,
+  author = {Michael Wick and Khashayar Rohanimanesh and Kedar Bellare and Aron Culotta and Andrew McCallum},
+  title = {SampleRank: Training factor graphs with atomic gradients},
+  booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},
+  shortbooktitle = {ICML},
+  year = {2011},
+}
+```
