@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TAPILab
+title: TAPI Lab
 tagline: Text Analysis in the Public Interest
 ---
 
