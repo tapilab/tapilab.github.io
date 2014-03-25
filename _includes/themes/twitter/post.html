@@ -1,5 +1,8 @@
 <div class="page-header">
   <h3><a href="http://www.cs.iit.edu/~culotta/pubs/{{ page.key }}.pdf">{{ page.title }}</a><br/><small>{{ page.authors }},  {{ page.venue }}</small></h3>
+  {% if page.code  %}
+    <a href="{{ page.code }}">Code</a>
+  {% endif %}
 </div>
 
 <div class="row-fluid post-full">
