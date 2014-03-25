@@ -2,7 +2,7 @@
 layout: post
 category : User Attribute Inference
 title: "Too Neurotic, Not too Friendly: Structured Personality Classification on Textual Data"
-venue: ICWSM 2014 Workshop
+venue: ICWSM 2013 Workshop
 authors: Francisco Iacobelli and Aron Culotta
 tags : [classification, personality, CRFs]
 key: iacobelli13too
