@@ -25,7 +25,7 @@ compared to more traditional approaches for supervised classification.
 
 #### Citation
 
-    @InProceedings{iacobelli13too,
+	@InProceedings{iacobelli13too,
       author = 	 {Francisco Iacobelli and {\bf Aron Culotta} },
       title = 	 {Too Neurotic, Not too Friendly: Structured Personality Classification on Textual Data },
       booktitle = {ICWSM Workshop on Personality Classification},

@@ -10,6 +10,7 @@ group: navigation
 <h2 id="{{ category.name }}-ref">{{ category.name }}</h2>
 <img align="right" width="300px" src="assets/{{ category.image }}"/>
 {{ category.description }}
+
 #### Publications
   <ul class="posts">
     {% for post in site.posts %}

@@ -23,7 +23,7 @@ that are robust in cases of extremely high noise.
 
 #### Citation
 
-    @techreport{culotta10detecting,
+	@techreport{culotta10detecting,
       author = {Aron Culotta},
       title = {Detecting influenza epidemics by analyzing {T}witter messages},
       howpublished = {arXiv:1007.4748v1 [cs.IR]},
