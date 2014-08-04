@@ -11,11 +11,14 @@ group: navigation
 
 ### PhD Students
 - Ehsan Mohammady
+- Virgile Landeiro Dos Reis
 - You? Apply [here](http://goo.gl/pBmkax)
 
 ### MS Students
-- Virgile Landeiro Dos Reis
+- [Lola Priego](http://lolapriego.com/)
+- Nirmal Ravi
 - Thomas Theissier
+- Junzhe Zheng
 
 ### Collaborators
 - [Mustafa Bilgic](http://www.cs.iit.edu/~mbilgic/)
