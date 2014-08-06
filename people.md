@@ -18,6 +18,7 @@ group: navigation
 - [Lola Priego](http://lolapriego.com/)
 - Nirmal Ravi
 - Thomas Theissier
+- Cyril Trosset
 - Junzhe Zheng
 
 ### Collaborators
