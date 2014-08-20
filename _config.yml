@@ -138,7 +138,7 @@ category_list:
     description: The proliferation of social media -- such as Twitter, Facebook, blogs, and Web forums -- has created an unprecedented, continuous stream of messages containing the thoughts, opinions, and beliefs of millions of people. Can we transform this raw data into insights about public health? Our recent work has shown promising results mining online data to monitor disease symptoms and estimate population health, suggesting that this new data source can enhance our understanding of the relationships among health, behavior, personality, and environment.
     image: flu.png
 
-  - name: Digital Humanitarianism
+  - name: Crisis Informatics
     description: During disasters such as hurricanes, first-responders need situational awareness to make the right decisions in a quickly changing environment. People on the ground often post online messages that provide actionable information, but it can be difficult to find among all the noise. Can we monitor social media during a natural disaster or other crisis to inform first-responders? Can we discern the most vulnerable populations based on their attitudes before, during, and after the disaster?
     image: irene.png
 
