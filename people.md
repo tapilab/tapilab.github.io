@@ -16,7 +16,7 @@ group: navigation
 
 ### MS Students
 - [Lola Priego](http://lolapriego.com/)
-- Nirmal Ravi
+- Nirmal Ravi Kumar
 - Thomas Theissier
 - Cyril Trosset
 - Junzhe Zheng
