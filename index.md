@@ -19,3 +19,5 @@ The goal of our research is two-fold: (1) to leverage this unprecedented
 source of data to advance research in automated processing of informal human
 communication; and (2) to apply these techniques to analyze trends in social
 media and produce socially beneficial technology.
+
+<br>Interested PhD students should please apply <a href="http://www.formpl.us/form/0Bzos6n5Wl_xoSkp1YXk2dzdHaG8/">here</a>.
