@@ -6,6 +6,7 @@ venue: JAIR
 authors: Aron Culotta, Nirmal Kumar Ravi, Jennifer Cutler
 tags : [Twitter, regression, distant supervision]
 key: culotta16predicting
+code: https://github.com/tapilab/jair-2016-demographics
 ---
 {% include JB/setup %}
 #### Abstract
