@@ -33,6 +33,7 @@ supervised approach.
 		author =       {Aron Culotta and and Nirmal Kumar Ravi and Jennifer Cutler},
 		title =        {Predicting Twitter User Demographics using Distant Supervision from Website Traffic Data},
 		journal =      {Journal of Artificial Intelligence Research},
+                volume =       {55},
 		year =         2016,
-		note =         {(to appear)},
+                pages =        {389--408},
 	}
