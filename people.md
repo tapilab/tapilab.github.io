@@ -10,8 +10,9 @@ group: navigation
 - [Aron Culotta](http://cs.iit.edu/~culotta)
 
 ### PhD Students
-- Ehsan Mohammady Ardehaly
+- Zhao Wang
 - Virgile Landeiro Dos Reis
+- Ehsan Mohammady Ardehaly
 - You? Apply [here](http://goo.gl/pBmkax)
 
 ### MS Students
