@@ -5,7 +5,7 @@ title: Tractable Learning and Inference with High-Order Representations
 venue: ICML 2006 Workshop
 authors: Aron Culotta and Andrew McCallum
 key: culotta06tractable
-tags: [coreference resolution, MCMC]
+tags: [coreference, MCMC]
 ---
 
 {% include JB/setup %}

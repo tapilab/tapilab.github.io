@@ -5,7 +5,7 @@ title: Practical Markov logic containing first-order quantifiers with applicatio
 venue: HLT/NAACL 2006 Workshop
 authors: Aron Culotta and Andrew McCallum
 key: culotta06practical
-tags: [coreference resolution]
+tags: [coreference]
 ---
 
 {% include JB/setup %}
