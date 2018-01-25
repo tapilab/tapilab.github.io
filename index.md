@@ -20,5 +20,5 @@ source of data to advance research in automated processing of informal human
 communication; and (2) to apply these techniques to analyze trends in social
 media and produce socially beneficial technology.
 
-<b>Interested PhD students -- please <a href="https://goo.gl/forms/XCJAwpzva0DE7Pol1">apply here</a></b>
+<b>Interested PhD students -- please <a href="https://goo.gl/forms/XCJAwpzva0DE7Pol1">apply here</a>.</b>
 
