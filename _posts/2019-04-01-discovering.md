@@ -5,7 +5,7 @@ title: Discovering and Controlling for Latent Confounds in Text Classification U
 venue: SDM 2019
 authors: Virgile Landeiro, Aron Culotta
 tags : [Twitter, confounding, classification]
-key: landeiro2019discovering
+key: landeiro19discovering
 ---
 {% include JB/setup %}
 #### Abstract
