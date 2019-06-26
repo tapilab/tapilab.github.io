@@ -4,7 +4,7 @@ category : Public Health
 title: Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation
 venue: SDM 2019
 authors: Virgile Landeiro, Aron Culotta
-tags : [Twitter, confounding, classification]
+tags : [Twitter, confounding, classification, domain adaptation]
 key: landeiro19discovering
 ---
 {% include JB/setup %}
@@ -30,7 +30,7 @@ confounds are known ahead of time.
 
 
 #### Citation
-    @InProceedings{landeiro2019discovering,
+    @InProceedings{landeiro19discovering,
       author =       {Virgile Landeiro and Tuan Tran and Aron Culotta},
       title =        {Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation},
       booktitle = {Proceedings of the SIAM International Conference on Data Mining (SDM19)},

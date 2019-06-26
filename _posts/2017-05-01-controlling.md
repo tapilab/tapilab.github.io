@@ -4,7 +4,7 @@ category : Public Health
 title: Controlling for Unobserved Confounds in Classification Using Correlational Constraints 
 venue: ICWSM 2017
 authors: Virgile Landeiro, Aron Culotta
-tags : [Twitter, confounding, classification]
+tags : [Twitter, confounding, classification, domain adaptation]
 code: https://github.com/tapilab/icwsm-2017-confounds
 key: landeiro17controlling
 ---
