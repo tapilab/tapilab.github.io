@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Public Health
-title: Robust Text Classification under Confounding Shift
+title: Discovering and Controlling for Latent Confounds in Text Classification Using Adversarial Domain Adaptation
 venue: SDM 2019
 authors: Virgile Landeiro, Aron Culotta
 tags : [Twitter, confounding, classification]
