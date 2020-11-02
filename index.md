@@ -22,5 +22,5 @@ media and produce socially beneficial technology.
 
 <b>Interested PhD students -- please <a href="https://goo.gl/forms/XCJAwpzva0DE7Pol1">apply here</a>.</b>
 
-<b>Current IIT students interested in doing an independent study should please <a href="https://goo.gl/forms/3vEGOWcMcS79kALj1">apply here</a>.</b>
+<b>Current Tulane students interested in doing an independent study should please <a href="https://goo.gl/forms/3vEGOWcMcS79kALj1">apply here</a>.</b>
 
