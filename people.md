@@ -10,12 +10,20 @@ group: navigation
 - [Aron Culotta](http://cs.iit.edu/~culotta)
 
 ### PhD Students
-- Lan Wei
-- Karthik Shivaram
-- Zhao Wang
-- Virgile Landeiro Dos Reis
-- Ehsan Mohammady Ardehaly
+
+**current:**
+
+- [Karthik Shivaram](https://scholar.google.com/citations?user=n0_djZcAAAAJ)
+- Xintian Li
 - You? Apply [here](https://goo.gl/forms/XCJAwpzva0DE7Pol1)
+
+**former:**
+
+- Lan Wei
+- [Zhao Wang](https://scholar.google.com/citations?user=yuSNJosAAAAJ)
+- [Virgile Landeiro Dos Reis](https://scholar.google.com/citations?hl=en&user=dcBDDIYAAAAJ)
+- [Ehsan Mohammady Ardehaly](https://scholar.google.com/citations?user=HJFd19oAAAAJ)
+
 
 ### MS Students
 - Shreesh Bhat, <a href="https://github.com/tapilab/is-shreeshbhat}{github.com/tapilab/is-shreeshbhat">Forecasting product recalls from reviews</a>
