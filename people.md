@@ -37,6 +37,7 @@ group: navigation
 - Harsh Parikh, <a href="https://github.com/tapilab/is-hparik11">Inferring demographics from images</a>
 - Lola Priego, <a href="https://github.com/lolapriego/financial\_predictor">Financial Prediction from Twitter</a>
 - Thomas Theissier, <a href="https://github.com/tapilab/theissier">Interactive labeling of tweets for classification</a>
+- Bahar Radfar, <a href="https://ojs.aaai.org/index.php/ICWSM/article/download/7366/7220">Characterizing variation in toxic language by social context</a>
 - Nirmal Kumar Ravi, <a href="https://github.com/tapilab/aaai-2015-demographics">Inferring user demographics from Twitter</a>
 - Victor Saint Guilhem, <a href="https://github.com/tapilab/is-hjurin">Tracking French politics on Twitter</a>
 - Carol Schmitz, <a href="https://github.com/tapilab/is-carolgrrr">Detecting verbal violence online</a>
